@@ -1,0 +1,48 @@
+#A{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black
+}
+#B{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;
+}
+img{
+    height: 120px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#home{
+    margin-right: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+#contact{
+    margin-right: 30px;  
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+#about{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 30px;  
+    color: black;
+}
+#log{
+    margin-left: 800px;
+}
+a{
+    text-decoration:none;
+}
+#update{
+    background-color: black;
+    color: white;
+}

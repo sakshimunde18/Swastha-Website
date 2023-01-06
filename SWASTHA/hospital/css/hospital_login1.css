@@ -1,0 +1,64 @@
+body{
+    background-image:url(../../img/login_hospital.jpg);
+}
+
+#username{
+    border-radius: 15px;
+    margin-top: 40px;
+    padding: 20px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#password{
+    border-radius: 15px;
+    margin-top: 50px;
+    padding: 20px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3{
+    color:  rgb(12, 12, 109);
+    margin-top: 50px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#login{
+    margin-top: 100px;
+    margin-left: 100px;
+    height: 600px;
+    width: 500px;
+    border: 2px solid black;
+}
+#submit{
+    background-color:  rgb(12, 12, 109);
+    color: white;
+    border-radius: 15px;
+    margin-top: 50px;
+    padding: 20px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#submit:hover {
+    background-color: transparent;
+    color:  rgb(12, 12, 109) ;
+    font-weight: bold;
+    
+    
+  }
+#p1{
+    margin-top: 20px;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}

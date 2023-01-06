@@ -1,0 +1,62 @@
+body{
+    background-image : url(../img/login.jpg);
+}
+#login{
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    height: 550px;
+    width: 500px;
+    border: 2px solid white;
+}
+
+#username{
+    border-radius: 15px;
+    margin-top: 40px;
+    padding: 20px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#password{
+    border-radius: 15px;
+    margin-top: 50px;
+    padding: 20px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    font-weight: bold;
+    color: white;
+    margin-top: 50px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#submit{
+    background-color:  black;
+    color: white;
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    padding: 20px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#submit:hover {
+    background-color: transparent;
+    font-weight: bold;
+    
+    
+  }
+#p{
+    color: white;
+    font-size: 20px;
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
