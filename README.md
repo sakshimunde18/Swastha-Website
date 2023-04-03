@@ -20,6 +20,10 @@ The major role of “SAWASTHA” is to let the user know the occupancy of beds i
 - We will use a cloud database for storing and retrieving user and hospital-related data.
 - The website will send messages to nearby people with the same blood group in case of urgent blood requirements and also at the time of blood donation camp or any health-related activities.  
 
+<hr>
+
+
+![Screenshot 2023-04-03 191746](https://user-images.githubusercontent.com/92391500/229529420-762f1b99-03ca-4841-8344-9bf139b1ef4f.png)
 
 
 
